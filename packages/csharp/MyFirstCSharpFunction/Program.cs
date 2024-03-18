@@ -4,7 +4,7 @@ var app = builder.Build();
 
 app.MapGet("/cs", () =>
 {
-  return Results.Json(new { message = "Hello, World! From CSharp" });
+  return Results.Json(new { message = "Hello, World! From CSharp", language = "CSharp"});
 });
 
 app.Run();
