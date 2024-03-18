@@ -1,0 +1,18 @@
+{
+  "name": "@foo-bar/functions",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "sst bind vitest",
+    "typecheck": "tsc -noEmit"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.136",
+    "@types/node": "^20.11.28",
+    "sst": "^2.41.2",
+    "vitest": "^1.4.0"
+  },
+  "dependencies": {
+    "hono": "^4.1.1"
+  }
+}
