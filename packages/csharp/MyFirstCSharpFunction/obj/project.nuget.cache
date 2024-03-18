@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "MePrlgDnKg0rSERZj2BlWuGG7N6TUrviH9NvjM9DZnIBNMcD6hLOG14c6gjfpa7cQwp2os6jiADo5QZWus+bSg==",
+  "success": true,
+  "projectFilePath": "/Users/sam/Playground/sst-demos/foo-bar/packages/csharp/MyFirstCSharpFunction/MyFirstCSharpFunction.csproj",
+  "expectedPackageFiles": [
+    "/Users/sam/.nuget/packages/amazon.lambda.apigatewayevents/2.7.0/amazon.lambda.apigatewayevents.2.7.0.nupkg.sha512",
+    "/Users/sam/.nuget/packages/amazon.lambda.applicationloadbalancerevents/2.2.0/amazon.lambda.applicationloadbalancerevents.2.2.0.nupkg.sha512",
+    "/Users/sam/.nuget/packages/amazon.lambda.aspnetcoreserver/9.0.0/amazon.lambda.aspnetcoreserver.9.0.0.nupkg.sha512",
+    "/Users/sam/.nuget/packages/amazon.lambda.aspnetcoreserver.hosting/1.7.0/amazon.lambda.aspnetcoreserver.hosting.1.7.0.nupkg.sha512",
+    "/Users/sam/.nuget/packages/amazon.lambda.core/2.2.0/amazon.lambda.core.2.2.0.nupkg.sha512",
+    "/Users/sam/.nuget/packages/amazon.lambda.logging.aspnetcore/3.1.0/amazon.lambda.logging.aspnetcore.3.1.0.nupkg.sha512",
+    "/Users/sam/.nuget/packages/amazon.lambda.runtimesupport/1.10.0/amazon.lambda.runtimesupport.1.10.0.nupkg.sha512",
+    "/Users/sam/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.4.1/amazon.lambda.serialization.systemtextjson.2.4.1.nupkg.sha512",
+    "/Users/sam/.nuget/packages/microsoft.extensions.configuration/2.1.0/microsoft.extensions.configuration.2.1.0.nupkg.sha512",
+    "/Users/sam/.nuget/packages/microsoft.extensions.configuration.abstractions/2.1.0/microsoft.extensions.configuration.abstractions.2.1.0.nupkg.sha512",
+    "/Users/sam/.nuget/packages/microsoft.extensions.configuration.binder/2.1.0/microsoft.extensions.configuration.binder.2.1.0.nupkg.sha512",
+    "/Users/sam/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.0/microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "/Users/sam/.nuget/packages/microsoft.extensions.logging/2.1.0/microsoft.extensions.logging.2.1.0.nupkg.sha512",
+    "/Users/sam/.nuget/packages/microsoft.extensions.logging.abstractions/2.1.0/microsoft.extensions.logging.abstractions.2.1.0.nupkg.sha512",
+    "/Users/sam/.nuget/packages/microsoft.extensions.options/2.1.0/microsoft.extensions.options.2.1.0.nupkg.sha512",
+    "/Users/sam/.nuget/packages/microsoft.extensions.primitives/2.1.0/microsoft.extensions.primitives.2.1.0.nupkg.sha512",
+    "/Users/sam/.nuget/packages/system.memory/4.5.0/system.memory.4.5.0.nupkg.sha512",
+    "/Users/sam/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.0/system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
